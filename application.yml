@@ -1,0 +1,8 @@
+my:
+   greetings: Hello world from github config
+   list.values: 1,2,3,4
+   
+db:
+   connection: connection-string-from-github-config
+   host: github-host
+   port: 2000
